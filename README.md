@@ -45,6 +45,7 @@ This is simply an EFI backup for the HP Victus 16. Only use this EFI if you have
 - [x] Virtualization (due to the lack of AMD-V support in macOS)
 - [x] Sleep & Wake (will be fixing in next versions of this EFI)
 - [x] Nvidia dGPU (current MacOS don't like him)
+- [x] Wi-fi & Bluetooth (Realtek cards not supported)
 
 ## :closed_lock_with_key: SMBIOS
 
@@ -75,6 +76,6 @@ Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your own Plat
 
 [**AMD-OSX**](https://github.com/AMD-OSX/AMD_Vanilla) for AMD Kernel Patches
 
-[**Gemini (Google AI)**] for providing step-by-step guidance, troubleshooting, and configuration assistance throughout the Hackintosh process
+[**Gemini**](gemini.google.com) for providing step-by-step guidance, troubleshooting, and configuration assistance throughout the Hackintosh process
 
 [**Apple**](http://apple.com/) for obvious reasons
